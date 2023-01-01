@@ -1,5 +1,6 @@
 # MSCR3.0
-## mc server chat robot
+## 下载链接: [蓝奏云](https://woodish.lanzouo.com/b01kamgyj) 密码:XY58
+## 全称mc server chat robot(MC服务器聊天机器人)
 ## 使用方法
 ### 1.将要刷的文字复制到剪贴板
 ### 2.打开MC服务器聊天Robot
